@@ -1,6 +1,6 @@
 ## Description ##
 
-CropBox is a software for the croping images<br>
+CropBox is a software for croping images<br>
 <br>
 
 ## How To ##
