@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/15m1t1tvv5gssdh2?svg=true)](https://ci.appveyor.com/project/abatsakidis/cropbox)
+
 ## Description ##
 
 CropBox is a software for croping images<br>
