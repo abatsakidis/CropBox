@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/15m1t1tvv5gssdh2?svg=true)](https://ci.appveyor.com/project/abatsakidis/cropbox)
+[![Build status](https://ci.appveyor.com/api/projects/status/15m1t1tvv5gssdh2?svg=true)](https://ci.appveyor.com/project/abatsakidis/cropbox) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/0c70c59a2a0e4ddf8c85fc70ac40f33b)](https://www.codacy.com/gh/abatsakidis/CropBox/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=abatsakidis/CropBox&amp;utm_campaign=Badge_Grade)
 
 ## Description ##
 
