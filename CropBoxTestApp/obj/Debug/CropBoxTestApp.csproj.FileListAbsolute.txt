@@ -1,0 +1,14 @@
+C:\Users\abats\Downloads\CropBox\CropBoxTestApp\bin\Debug\CropBoxTestApp.exe.config
+C:\Users\abats\Downloads\CropBox\CropBoxTestApp\bin\Debug\CropBoxTestApp.exe
+C:\Users\abats\Downloads\CropBox\CropBoxTestApp\bin\Debug\CropBoxTestApp.pdb
+C:\Users\abats\Downloads\CropBox\CropBoxTestApp\bin\Debug\System.Windows.Forms.Controls.dll
+C:\Users\abats\Downloads\CropBox\CropBoxTestApp\bin\Debug\System.Windows.Forms.Controls.pdb
+C:\Users\abats\Downloads\CropBox\CropBoxTestApp\obj\Debug\CropBoxTestApp.csproj.AssemblyReference.cache
+C:\Users\abats\Downloads\CropBox\CropBoxTestApp\obj\Debug\CropBoxTestApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\abats\Downloads\CropBox\CropBoxTestApp\obj\Debug\CropBox.MainForm.resources
+C:\Users\abats\Downloads\CropBox\CropBoxTestApp\obj\Debug\CropBox.Properties.Resources.resources
+C:\Users\abats\Downloads\CropBox\CropBoxTestApp\obj\Debug\CropBoxTestApp.csproj.GenerateResource.cache
+C:\Users\abats\Downloads\CropBox\CropBoxTestApp\obj\Debug\CropBoxTestApp.csproj.CoreCompileInputs.cache
+C:\Users\abats\Downloads\CropBox\CropBoxTestApp\obj\Debug\CropBoxTestApp.csproj.CopyComplete
+C:\Users\abats\Downloads\CropBox\CropBoxTestApp\obj\Debug\CropBoxTestApp.exe
+C:\Users\abats\Downloads\CropBox\CropBoxTestApp\obj\Debug\CropBoxTestApp.pdb

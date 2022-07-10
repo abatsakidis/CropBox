@@ -1,0 +1,6 @@
+C:\Users\abats\Downloads\CropBox\CropBox\bin\Debug\System.Windows.Forms.Controls.dll
+C:\Users\abats\Downloads\CropBox\CropBox\bin\Debug\System.Windows.Forms.Controls.pdb
+C:\Users\abats\Downloads\CropBox\CropBox\obj\Debug\CropBox.csproj.AssemblyReference.cache
+C:\Users\abats\Downloads\CropBox\CropBox\obj\Debug\CropBox.csproj.CoreCompileInputs.cache
+C:\Users\abats\Downloads\CropBox\CropBox\obj\Debug\System.Windows.Forms.Controls.dll
+C:\Users\abats\Downloads\CropBox\CropBox\obj\Debug\System.Windows.Forms.Controls.pdb
