@@ -144,6 +144,8 @@ namespace System.Windows.Forms
                         case 8:
                             _image.RotateFlip(RotateFlipType.Rotate270FlipNone);
                             break;
+                        default:
+                            throw new InvalidOperationException("Unexpected value");
                     }
 
                     // This EXIF data is now invalid and should be removed.
@@ -582,6 +584,8 @@ namespace System.Windows.Forms
                         break;
                     case MouseMoveMode.None:
                         break;
+                    default:
+                        throw new InvalidOperationException("Unexpected value foo");
                 }
 
                 ValidateSelectionRectangle(ref currentSelection);
@@ -933,6 +937,8 @@ namespace System.Windows.Forms
 
                         fullImageSelection = squareSelectionRectangle;
                         break;
+                    default:
+                        throw new InvalidOperationException("Unexpected value foo");
                 }
 
                 CropBoxInitialSelectionEventArgs args = new CropBoxInitialSelectionEventArgs(Image, fullImageSelection);
@@ -948,7 +954,7 @@ namespace System.Windows.Forms
                     SelectionRectangle = ScaleRectangleDown(args.Selection);
                 }
 
-                _initialSelectionRectangle = new Rectangle(SelectionRectangle.Location, SelectionRectangle.Size); ;
+                _initialSelectionRectangle = new Rectangle(SelectionRectangle.Location, SelectionRectangle.Size); 
             }
         }
 
@@ -1099,6 +1105,8 @@ namespace System.Windows.Forms
                 case MouseMoveMode.Right:
                     Cursor = Cursors.SizeWE;
                     break;
+                default:
+                    throw new InvalidOperationException("Unexpected value foo"); 
             }
         }
 
