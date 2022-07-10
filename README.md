@@ -12,7 +12,7 @@ CropBox is a software for the croping images<br>
 
 ## Screenshot
 
-![Alt text](/Screenshot/screen.jpg?raw=true "CropBox")
+![Alt text](/Screenshot/screen.JPG?raw=true "CropBox")
 
 ## Tested on ##
 
