@@ -526,7 +526,7 @@ namespace System.Windows.Forms
             base.OnMouseMove(e);
 
             if (!_editing)
-                return;
+            { return; }
 
             if (_mouseMoveMode == MouseMoveMode.None)
             {
@@ -647,10 +647,10 @@ namespace System.Windows.Forms
             }
 
             if (Image == null || _imageRectangle == null)
-                return;
+            { return; }
 
             if (SelectionRectangle == null || SelectionRectangle.Equals(Rectangle.Empty))
-                return;
+            { return; }
 
             Rectangle selRectangle = FixNegativeRectangle(SelectionRectangle);
             Rectangle offRectangle = FixNegativeRectangle(OffsetSelectionRectangle);
@@ -679,7 +679,7 @@ namespace System.Windows.Forms
             }
 
             if (SelectionResizeMode == CropBoxSelectionResizeMode.Disallow)
-                return;
+            { return; }
 
             //Draw selection handles
 
@@ -975,7 +975,7 @@ namespace System.Windows.Forms
         private Rectangle FixNegativeRectangle(Rectangle rectangle)
         {
             if (rectangle.Width > 0 && rectangle.Height > 0)
-                return rectangle;
+            { return rectangle; }
 
             Rectangle fixedRectangle = new Rectangle();
 
@@ -1105,7 +1105,7 @@ namespace System.Windows.Forms
         private void ValidateSelectionRectangle(ref Rectangle offsetSelection)
         {
             if (_mouseMoveMode == MouseMoveMode.None)
-                return;
+            { return; }
 
             if (_mouseMoveMode == MouseMoveMode.Move)
             {
@@ -1312,7 +1312,7 @@ namespace System.Windows.Forms
         private Rectangle ScaleRectangleUp(Rectangle rect)
         {
             if (Image == null || _resizedImage == null)
-                return Rectangle.Empty;
+            { return Rectangle.Empty; }
 
             Rectangle scaledRectangle = new Rectangle();
 

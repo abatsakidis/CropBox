@@ -52,7 +52,7 @@ namespace CropBox
         private void CropBox1_SetInitialSelection(object sender, CropBoxInitialSelectionEventArgs args)
         {
             if (cropBox1.SelectionInitialMode != System.Windows.Forms.CropBox.CropBoxSelectionInitialMode.Custom)
-                return;
+            { return; }
 
             Rectangle selection = new Rectangle((int)(0.1 * args.Image.Width),
                                                 (int)(0.1 * args.Image.Height),
